@@ -1,4 +1,5 @@
- "name": "kanban-service-achat",
+{
+"name": "kanban-service-achat",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
