@@ -1,7 +1,11 @@
 import React from 'react';
 
 function App() {
-  return <h1>Bonjour, ceci est le projet Achat !</h1>;
+  return (
+    <div>
+      <h1>Bienvenue sur l'application Achat</h1>
+    </div>
+  );
 }
 
 export default App;
