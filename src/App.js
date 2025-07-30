@@ -1,15 +1,7 @@
 import React from 'react';
-import Kanban from './Kanban';
 
-export default function App() {
-  return (
-    <div>
-      <h1 style={{ textAlign: 'center' }}>KANBAN - Service Achat</h1>
-      <Kanban />
-    </div>
-  );
-<<<<<<< Updated upstream
+function App() {
+  return <h1>Bonjour, ceci est le projet Achat !</h1>;
 }
-=======
-}
->>>>>>> Stashed changes
+
+export default App;
