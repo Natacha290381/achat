@@ -3,7 +3,7 @@ import React from 'react';
 function App() {
   return (
     <div>
-      <h1>Bienvenue sur l'application Achat</h1>
+      <h1 style={{ color: 'green' }}>L'application s'affiche bien ✅</h1>
     </div>
   );
 }
